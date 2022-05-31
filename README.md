@@ -4,7 +4,7 @@
 
 - **제작 기간 2020년 1월 ~ 4월**
 
-- **멤버 : [김종신](https://github.com/JJJoonngg)(팀장 및 총괄), [최성현](https://github.com/sung96387)(채팅), [남윤호](https://github.com/Bucoco)(기획 및 설정), [박성희](https://github.com/ParkSungHee) (개인정보), [곽지원](https://github.com/jiwon1217)(디자인 및 아이디어)**
+- **멤버 : [김종신](https://github.com/JJJoonngg)(팀장 및 총괄), [최성현](https://github.com/sung96387)(채팅), [남윤호](https://github.com/Bucoco)(기획 및 설정), [박성희](https://github.com/ParkSungHee) (개인정보-로그인, 회원가입, 아이디/비밀번호 찾기, 마이페이지), [곽지원](https://github.com/jiwon1217)(디자인 및 아이디어)**
 
   
 
